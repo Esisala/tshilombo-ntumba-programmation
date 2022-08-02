@@ -1,0 +1,21 @@
+img{
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
+}
+.art{
+    margin-right: 100px ;
+    margin-left: 100px;
+}
+.son{
+        margin-right: 100px; 
+        margin-left: 100px; 
+        
+}
+
+.mur {
+        padding-right: 20px;
+}
+.lot{
+    padding-bottom: 70px;
+}
